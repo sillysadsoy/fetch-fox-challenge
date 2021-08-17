@@ -6,11 +6,11 @@ body {
     display: none;
 }
 
-/* #part-two {
-    display: none;
-} */
 
 img {
     margin: 3em;
     display: block;
+    width: 400px;
+    height: auto;
+    
 }
